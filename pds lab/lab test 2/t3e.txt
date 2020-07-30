@@ -1,0 +1,11 @@
+10 
+arnab boy 67 
+chaiti girl 71.5
+manas boy 81 
+dhriti boy 66 
+sobhan boy 95.5 
+ritam boy 92 
+priti girl 82 
+rini girl 94.5 
+namita girl 91 
+suvro boy 87
